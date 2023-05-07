@@ -1,0 +1,11 @@
+{
+  "name": "hostname-ip-webapp",
+  "version": "1.0.0",
+  "description": "A simple Node.js web application to display the hostname and IP address",
+  "main": "hostname-ip.js",
+  "scripts": {
+    "start": "node hostname-ip.js"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
